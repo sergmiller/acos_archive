@@ -1,0 +1,2 @@
+-all:
+	gcc -g -ansi -pedantic -Wall -O0  main.c -o editor  cartesian_tree.c string_for_text_editor.c filework.c  parser.c editor.c insert_functions.c replace_function.c my_print_pages.c   
